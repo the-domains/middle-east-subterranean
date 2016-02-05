@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Middle East Subterranean]]></title>
         <description><![CDATA[Middle East Subterranean]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/middle-east-subterranean/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 17:34:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 18:59:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/middle-east-subterranean/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af246439-32f7-4d83-b72e-b8b1919e8a94.JPG">]]></description>
+            <link>https://thegrid.ai/middle-east-subterranean/3d580f57-d4f8-4c57-bf10-6747c66c5da9/index.html</link>
+            <guid isPermaLink="false">3d580f57-d4f8-4c57-bf10-6747c66c5da9</guid>
+            <pubDate>Fri, 05 Feb 2016 18:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ad1d88-b8a0-4c25-8e0a-209cacfa5370.JPG">]]></description>
-            <link>undefined0ce509b9-392d-4644-a34f-af63b1ff07e4/index.html</link>
+            <link>https://thegrid.ai/middle-east-subterranean/0ce509b9-392d-4644-a34f-af63b1ff07e4/index.html</link>
             <guid isPermaLink="false">0ce509b9-392d-4644-a34f-af63b1ff07e4</guid>
             <pubDate>Fri, 05 Feb 2016 17:34:39 GMT</pubDate>
         </item>
