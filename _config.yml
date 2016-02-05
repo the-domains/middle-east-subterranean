@@ -1,0 +1,28 @@
+name: Middle East Subterranean
+favicon: null
+layout_spectrum: 0.9406734595540911
+typography_spectrum: 0.8272579393815249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6974449323024601
+  lightness: 0.43249360215850174
+  saturation: 0.8989228948485106
+  rhythmicContrast: 0.9125569679308683
+purpose: []
